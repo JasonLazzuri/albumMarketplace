@@ -1,4 +1,10 @@
-# OnlineStore
+# Astral Records
+  _Starlynne Start, 6.11.17_
+
+## Description
+
+_A record store POS app created to practice Angular CLI, dynamic routing, and learn AngularFire._
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.1.1.
 
