@@ -24,7 +24,7 @@ _In order to run this app, you will need a Firebase account and credentials._
 * Create a new project
 * Select "Add Firebase To Your Website"
 * Copy the credentials
-* In the cloned project file src/api/api-keys.ts :
+* In the cloned project file src/api/api-keys.ts, type:
   * export var masterFirebaseConfig = {
     apiKey: "xxxx",
     authDomain: "xxxx.firebaseapp.com",
@@ -32,7 +32,7 @@ _In order to run this app, you will need a Firebase account and credentials._
     storageBucket: "xxxx.appspot.com",
     messagingSenderId: "xxxx"
   };
-  placing your Firebase credentials in the appropriate spots.
+  *  Place your Firebase credentials in the appropriate spots.
 * Return to Firebase Console, select project's name from the list.
 * Visit the Database area by selecting the Database option from the navbar on the left-hand side.
 * Near the top of the page, there should be a blue navbar reading Realtime Database. Below this, select the option that reads RULES.
